@@ -16,8 +16,8 @@ Tenho 18 anos, sou estudante de Engenharia de Computação no IFTM - Campus Avan
 
 ### Git stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LUCASOGARCEZ&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LUCASOGARCEZ&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasogarcez&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasogarcez&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 ### Meus Principais Desafios de Projeto DIO
