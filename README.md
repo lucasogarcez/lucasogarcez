@@ -1,9 +1,9 @@
-# Lucas Oliveira Garcez
+# Olá 👋🏼, sou Lucas Garcez!
+Estudante de Engenharia de Computação no IFTM - Campus Avançado Uberaba Parque Tecnológico. No momento estou aprofundando meu conhecimento em novas tecnologias como Java e Angular.
 
-Tenho 18 anos, sou estudante de Engenharia de Computação no IFTM - Campus Avançado Parque Tecnológico e participo do Bootcamp Santander | Fullstack Java + Angular.
+Apaixonado por artes e tecnologias, alguns dos meus hobbies são jogos, livros e desenhar.
 
 ### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/lucas_o_garcez1)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:lucas.o.garcez1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lucas-oliveira-garcez-693363144/)
 
@@ -14,13 +14,10 @@ Tenho 18 anos, sou estudante de Engenharia de Computação no IFTM - Campus Avan
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 
-### Git stats
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasogarcez&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasogarcez&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-### Meus Principais Desafios de Projeto
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
-[![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=lucasogarcez&repo=pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/lucasogarcez/pokedex)
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
