@@ -20,4 +20,4 @@ Apaixonado por artes e tecnologias, alguns dos meus hobbies são jogos, livros e
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasogarcez&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<lucasogarcez>/<lucasogarcez>/blob/output/github-contribution-grid-snake2.svg)
