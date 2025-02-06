@@ -9,9 +9,11 @@ Apaixonado por artes e tecnologias, alguns dos meus hobbies são jogos, livros e
 
 
 ### Habilidades
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+
 
 
 ### GitHub Stats
