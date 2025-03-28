@@ -1,5 +1,5 @@
 # Olá 👋🏼, sou Lucas Garcez!
-Estudante de Engenharia de Computação no IFTM - Campus Avançado Uberaba Parque Tecnológico. No momento estou aprofundando meu conhecimento em novas tecnologias como Java e Angular.
+Estudante de Engenharia de Computação no IFTM - Campus Avançado Uberaba Parque Tecnológico. No momento estou aprofundando meu conhecimento em novas tecnologias como Python e Javascript.
 
 Apaixonado por artes e tecnologias, alguns dos meus hobbies são jogos, livros e desenhar.
 
