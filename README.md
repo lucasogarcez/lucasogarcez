@@ -27,3 +27,4 @@ Apaixonado por artes e tecnologias, alguns dos meus hobbies são jogos, livros e
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lucasogarcez&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=lucasogarcez&hide_progress=true&bg_color=000&locale=pt-br&theme=transparent&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![LeetCode Stats](https://leetcard.jacoblin.cool/lucasogarcez?theme=dark&font=Roboto&colors=%23000000%2C%23013a63%2C%23a9d6e5%2C%23ffffff%2C%230077b6%2C%230096c7%2C%2300b4d8%2C%2390e0ef&border=2&hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count)
