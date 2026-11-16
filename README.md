@@ -1,4 +1,4 @@
-# Olá 👋🏼, sou Lucas Garcez!
+# Olá 👋🏼, sou Lucas Oliveira Garcez!
 
 Estudante de Engenharia de Computação no IFTM (8º período, formatura em 2027), em busca de **estágio em Desenvolvimento Backend com Python**. Desenvolvo sistemas em Django e PostgreSQL e tenho interesse em finanças e engenharia de dados.
 
@@ -6,7 +6,7 @@ Nas horas vagas: jogos, livros e desenho. 🎮📚✏️
 
 ### Conecte-se comigo
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.o.garcez1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-garcez-693363144/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-garcez/)
 
 ### Projetos em destaque
 
